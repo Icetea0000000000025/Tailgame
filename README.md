@@ -1,4 +1,4 @@
-# 🎮 [Game Title / ชื่อเกมของคุณ]
+# 🎮
 
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg?style=flat-square&logo=openjdk)](https://adoptium.net/)
 [![LibGDX](https://img.shields.io/badge/LibGDX-1.14.2-red.svg?style=flat-square)](https://libgdx.com/)
